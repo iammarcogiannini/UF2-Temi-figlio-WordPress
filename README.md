@@ -1,4 +1,4 @@
-# UF2-Temi-figlio-WordPress
+# UF2 Temi figlio WordPress
 Cosa sono e come installare un tema figlio
 
 ## Cos'è tema figlio
@@ -29,8 +29,7 @@ Il plugin per generare un tema child velocemente è `Child Theme Generator`. È 
 
 Come abbiamo detto il tema child non è altro che un file `.css` e un file `.php` quindi è facile da replicare anche senza plugins.
 
-Inserisco nella repository anche un esempio di tema child fatto a codice.
-
+Inserisco nella repository anche un esempio di tema child fatto a codice (Esempio tema figlio)[esempio-tema-figlio]
 
 
 
